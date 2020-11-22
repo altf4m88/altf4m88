@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **JavaScript, Laravel, PHP, HTML, CSS**
 
+- ⚒️ I’m currently working on **HistoBot**
+
 - 📫 How to reach me **fadhilmauladhani@gmail.com**
 
 - ⚡ Fun fact **I'm a history nerd, and a gamer too**
