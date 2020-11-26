@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhil Mauladhani</h1>
-<h3 align="center">I'm a student in Wikrama Bogor Vocational High School. I love coding and debugging.</h3>
+<h3 align="center">I'm a student at Wikrama Bogor Vocational High School. I love coding and debugging.</h3>
 
 - 🌱 I’m currently learning **JavaScript, Laravel, PHP, HTML, CSS**
 
