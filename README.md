@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fadhil Mauladhani</h1>
 <h3 align="center">I'm a student at Wikrama Bogor Vocational High School. I love coding and debugging.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=altf4m88&label=Profile%20views&color=0e75b6&style=flat" alt="altf4m88" /> </p>
+
 - 🌱 I’m currently learning **JavaScript, Laravel, PHP, HTML, CSS**
 
 - ⚒️ I’m currently working on **HistoBot**
@@ -33,6 +35,8 @@
 
 <a href="https://www.mysql.com/" target="_blank"> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <a href="https://laravel.com/" target="_blank"> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
