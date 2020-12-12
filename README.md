@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altf4m88&label=Profile%20views&color=0e75b6&style=flat" alt="altf4m88" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Laravel, PHP, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, React, Redux, NodeJS**
 
 - ⚒️ I’m currently working on **HistoBot**
 
