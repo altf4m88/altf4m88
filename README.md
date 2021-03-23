@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Redux, NodeJS**
 
-- ⚒️ I’m currently working on **HistoBot**
+- ⚒️ I’m currently working on **Kejar.id**
 
 - 📫 How to reach me **fadhilmauladhani@gmail.com**
 
-- ⚡ Fun fact **I'm a history nerd, and a gamer too**
+- ⚡ Fun fact **I'm a historynerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
