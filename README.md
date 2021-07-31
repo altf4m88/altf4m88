@@ -42,6 +42,9 @@
 
 <a href="https://www.mongodb.com/" target="_blank"> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
+  
+<a href="https://www.postgresql.org/" target="_blank"> 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre"/> </a>
 
 <a href="https://laravel.com/" target="_blank"> 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> </a> 
@@ -60,6 +63,9 @@
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet"/> </a> 
+ 
+<a href="https://www.postman.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a> 
 
 <hr>
 
@@ -77,9 +83,6 @@
 
 <a href="https://www.figma.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-
-<a href="https://postman.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altf4m88&show_icons=true&locale=en&layout=compact" alt="altf4m88" /></p>
 
