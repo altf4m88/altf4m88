@@ -67,22 +67,6 @@
 <a href="https://www.postman.com/" target="_blank"> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a> 
 
-<hr>
-
-<a href="https://webpack.js.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" height="40"/> </a> 
-
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-<a href="https://www.photoshop.com/en" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40"/> </a> 
-
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altf4m88&show_icons=true&locale=en&layout=compact" alt="altf4m88" /></p>
 
