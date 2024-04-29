@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **fadhilmauladhani@gmail.com**
 
-- ⚡ Fun fact **I'm a historynerd**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fadhil-mauladhani-501743192/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/fadhil-mauladhani-501743192/" /></a>
