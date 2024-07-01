@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Redux, NodeJS**
 
-- ⚒️ I’m currently working on **Kejar.id**
+- ⚒️ I’m currently working at **PT. AMA SALAM INDONESIA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
