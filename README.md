@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhil Mauladhani</h1>
-<h3 align="center">I'm a full-time back end developer. I love coding and debugging.</h3>
+<h3 align="center">Entire IT department, as long as I get paid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altf4m88&label=Profile%20views&color=0e75b6&style=flat" alt="altf4m88" /> </p>
 
