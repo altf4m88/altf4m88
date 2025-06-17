@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altf4m88&label=Profile%20views&color=0e75b6&style=flat" alt="altf4m88" /> </p>
 
-- 🌱 I’m currently learning **Nest.js, Next.js, Artificial Intelligence and Cybersecurity**
+- 🌱 I’m currently learning **LangChain, LangGraph, Artificial Intelligence and Cybersecurity**
 
 - ⚒️ I’m currently working at **PT. AMA SALAM INDONESIA**
 
